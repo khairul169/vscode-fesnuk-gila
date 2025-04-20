@@ -1,8 +1,13 @@
 {
   "name": "vscode-fesnuk-gila",
-  "displayName": "vscode-fesnuk-gila",
+  "displayName": "Fesnuk Gila",
   "description": "Rehat sejenak dari vscode sambil fesnukan",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khairul169/vscode-fesnuk-gila"
+  },
+  "publisher": "khairul169",
   "engines": {
     "vscode": "^1.99.0"
   },

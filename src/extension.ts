@@ -30,7 +30,7 @@ export function activate(context: vscode.ExtensionContext) {
       diags.filter((d) => d.severity === vscode.DiagnosticSeverity.Error)
     );
 
-    if (errors.length >= 1) {
+    if (errors.length >= 3) {
       onError();
     }
   });
